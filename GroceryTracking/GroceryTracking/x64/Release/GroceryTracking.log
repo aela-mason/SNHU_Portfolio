@@ -1,0 +1,8 @@
+﻿  GroceryTracking.cpp
+C:\Users\aelaq\Downloads\GroceryTracking\GroceryTracking\GroceryTracking\GroceryTracking.cpp(257,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating code
+  187 of 194 functions (96.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GroceryTracking.vcxproj -> C:\Users\aelaq\Downloads\GroceryTracking\GroceryTracking\x64\Release\GroceryTracking.exe
