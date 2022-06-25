@@ -1,5 +1,22 @@
 # SNHU_Portfolio
 
+Retrospective:
+  * User needs should be determined through interactions with the client, end users, or
+    stakeholders. Stories help by giving these needs a common structure, certain things
+    each story must have that help both in querying users for needs and in the team's
+    efforts to move stories forward in development.
+  * One thing I'll be taking forward into future projects is Test-Driven Development.
+    It has really stuck out to me as a process. When I used to be a teacher, rubrics were
+    one of my key tools. They ensured that students knew the expectations of each
+    assignment, and that the student and I would both score their work the same way.
+    That's what TDD feels like to me. It's how I know my code is complete, and it's how
+    anyone I'm working with knows what my intent is with a piece of code.
+  * Being a good team member in software development is truly about transparency and
+    communication. The best programmer in the world will be a detriment to the team if
+    they aren't able to convey their needs and their progress to the team, and if they
+    aren't able to understand what their team needs from them.
+    
+
 Grocery tracking:
   * This program was intended to help a grocery store track the frequency with which they
     were selling specific items, and to be able to prompt the system for that data in a
